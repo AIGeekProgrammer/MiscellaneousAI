@@ -22,6 +22,9 @@ Simple case of logistic regression using PyTorch and Scikit Learn on artificiall
 <b>Monte Carlo</b><br>
 I just play with Monte Carlo method to calculate some probabilities for cards setup in a deck
 
+<b>NLP</b><br>
+n-gram model and more - all connected with Natural Language Processing 
+
 <b>NN</b><br>
 Very simple models in Pytorch that use neural network to solve some basic problems. 
 
