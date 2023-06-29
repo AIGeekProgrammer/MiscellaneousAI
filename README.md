@@ -1,8 +1,8 @@
 Author: Szymon Manduk<br>
 Created: October 13, 2021<br>
-Last update: December 02, 2022<br>
+Last update: June 29, 2023<br>
 Repository title: MiscellaneousAI<br>
-Repository description: <b>Cointains miscellaneous code related to learning and solving different problems in Machine Learning, also connected with my blog posts.</b><br>
+Repository description: <b>Cointains miscellaneous code related to learning and solving different problems in Machine Learning. Also code from my blog posts at aigeekprogrammer.com.</b><br>
 
 <b>Short description of mini-projects (alphabetical order):</b>
 
@@ -12,6 +12,10 @@ Convolutional Neural Networks with Pytorch and Keras
 <b>Data Preparation with PyTorch</b><br>
 This code was written for the purpose of a blog post (https://aigeekprogrammer.com/data-preparation-with-dataset-and-dataloader-in-pytorch/)
 It show how we can use PyTorch to load and serve data for machine learning.
+
+<b>Fine-tuning Large Language Model using PEFT/LoRA and quantization techniques</b><br>
+This code was written for the purpose of a blog post (English version: TBD, Polish version: https://aigeekprogrammer.com/pl/llm-fine-tuning-lora-peft-kwantyzacja-google-colab/)
+It shows how we can fine-tune LLM - here RedPajama INCITE Chat 3B - using PEFT/LoRA and quantization techniques.
 
 <b>Linear Regression</b><br>
 Simple case of linear regression using PyTorch and artificially generated data
