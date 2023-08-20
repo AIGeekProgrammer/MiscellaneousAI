@@ -32,6 +32,8 @@ n-gram model and more - all connected with Natural Language Processing
 <b>NN</b><br>
 Very simple models in Pytorch that use neural network to solve some basic problems. 
 
-************************************
-CODE IS THE ULTIMATE SOURCE OF TRUTH
-************************************
+<b>Text Generator - </b><br>
+A small language model for generating text that resembles another literary source.
+
+***EOF
+
